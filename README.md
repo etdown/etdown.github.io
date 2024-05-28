@@ -5,3 +5,5 @@
 
 ## 例外
 - 小爱好
+### 资料库
+- 电报设置中文(https://t.me/setlanguage/zh-hans-beta) 
